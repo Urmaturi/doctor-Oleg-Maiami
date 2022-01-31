@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Doctor Oleg Maiami</string>
+    <string name="dr_oleg_maiami">Dr. Oleg Maiami</string>
+    <string name="dental_surgeon">Dental surgeon</string>
+    <string name="your_freundly_dental_friend">Your freundly Dental Friend</string>
+    <string name="oleg_mail">oleg.maiami93@gmail.com</string>
+    <string name="site_adress">www.dental.com</string>
+    <string name="wattsap_text">WhatsApp Me</string>
+    <string name="save_to_phone_book">Save to phone book</string>
+    <string name="street_adress">Abdymomunova 14b</string>
+    <string name="dental_clinic">Dental clinic</string>
+    <string name="our_location">Our location</string>
+    <string name="adress_in_asia_moll">Shoping center Asia \n Moll 1rst floor</string>
+    <string name="open_map">Open map</string>
+    <string name="text">Text</string>
+    <string name="call">call</string>
+    <string name="mail">mail</string>
+    <string name="scan_to_connect">Scan To Connect</string>
+    <string name="phone_number">+996 (774) 67 88 76</string>
+</resources>
