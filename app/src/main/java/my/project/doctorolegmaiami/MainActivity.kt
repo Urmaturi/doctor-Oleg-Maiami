@@ -11,16 +11,20 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         val imageView: ImageView = findViewById(R.id.imageView3)
         imageView.setOnClickListener{
-            openActivity()
+            val intent = Intent(this,second_activity:: class.java)
+            startActivity(intent)
+        }
+        val imageView2 : ImageView = findViewById(R.id.imageView2)
+        imageView2.setOnClickListener {
+            val intent = Intent(this,third_activity:: class.java)
+            startActivity(intent)
         }
 
     }
 
-    private fun openActivity()
-    {
-        val intent = Intent(this,third_activity:: class.java)
-        startActivity(intent)
-    }
+
+
+
 
 
 }

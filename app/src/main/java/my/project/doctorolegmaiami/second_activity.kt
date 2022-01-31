@@ -22,6 +22,6 @@ class second_activity : AppCompatActivity() {
 
      private fun openActivity2()
      {
-        // val intent = Intent(this,third_activity::javaClass )
+        //val intent = Intent(this,third_activity::javaClass )
         // startActivity(intent)
      }
